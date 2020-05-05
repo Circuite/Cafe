@@ -5,4 +5,6 @@ Cafe is code editor made for Developers
 | Language | Is supported? |
 | -------- | ------------- |
 | C# | :x: |
-| Web pack [🛈](https://github.com/Circuite/Cafe/langs/web/README.md) | :x: |
+| Web pack [🛈](https://github.com/Circuite/Cafe/blob/master/langs/web/README.md) | :x: |
+| Others | :x: |
+| Text | :white_check_mark: |
